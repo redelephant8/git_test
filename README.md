@@ -1,1 +1,0 @@
-This is redelephant8's first git project!
