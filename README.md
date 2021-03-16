@@ -1,2 +1,1 @@
-# git_test
-Hello, this is my Odin Project
+This is redelephant8's first git project!
