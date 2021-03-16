@@ -1,1 +1,1 @@
-This is redelephant8's first git project!
+This is redelephant8's first (second) git project!
